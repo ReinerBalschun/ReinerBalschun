@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ReinerBalschun
 - 👀 I’m interested in Computer Sciene and everything related to Cloud Computing 
 - 🌱 I’m currently learning to become a GW Cloud Consultant
-- 💞️ I’m looking to collaborate on Obsidian Notes to shre my Notes with you
+- 💞️ I’m looking to collaborate on Obsidian Notes to share my Notes with you
 - 📫 How to reach me? Currently not available! 
 
 <!---
