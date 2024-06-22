@@ -2,7 +2,7 @@
 👋 Hi, I’m @ReinerBalschun<br>👀 I’m interested in Computer Sciene and everything related to Cloud Computing<br>🌱 I’m currently learning to become an IT Expert<br>💞️ I’m looking to collaborate on Obsidian Notes to share my Notes with you
 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reiner-balschun-a123442b0) 
 
 # 💻 Tech Stack:
@@ -12,10 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ReinerBalschun&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReinerBalschun&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ReinerBalschun&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
