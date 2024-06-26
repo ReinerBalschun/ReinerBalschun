@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ReinerBalschun<br>👀 I’m interested in Computer Sciene and everything related to Cloud Computing<br>🌱 I’m currently learning to become an IT Expert<br>💞️ I’m looking to collaborate on Obsidian Notes to share my Notes with you
+👋 Hi, I’m @ReinerBalschun<br>👀 I’m interested in Computer Sciene and everything related to Cloud Computing<br>🌱 I’m currently learning the javascript library REACT ![[./react.png]] <br>💞️ I’m looking to collaborate on Obsidian Notes to share my Notes with you
 
 
 ## 🌐 Social:
