@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Nabla&size=60&pause=1000&width=600&height=200&lines=Hi+I'm+Reiner" alt="Typing SVG" />
+
 # 💫 About Me:
 👋 Hi, I’m @ReinerBalschun<br>👀 I’m interested in Computer Sciene and everything related to Cloud Computing<br>
 🌱 I’m currently learning the javascript library "REACT" <a href="https://github.com/ReinerBalschun/my-react-app"><img src="https://github.com/ReinerBalschun/ReinerBalschun/assets/152055446/544db450-433e-44c3-8e40-a8394bb1a07b" width="17" height="17"></a> <br>
