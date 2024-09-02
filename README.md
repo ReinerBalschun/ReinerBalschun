@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Nabla&size=60&pause=1000&width=600&height=200&lines=Hi+I'm+Reiner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Nabla&size=60&pause=1000&width=600&height=110&lines=Hi+I'm+Reiner" alt="Typing SVG" />
 
 # 💫 About Me:
 👋 Hi, I’m @ReinerBalschun<br>👀 I’m interested in Computer Sciene and everything related to Cloud Computing<br>
