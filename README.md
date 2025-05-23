@@ -2,8 +2,7 @@
 
 # 💫 About Me:
 👋 Hi, I’m @ReinerBalschun<br>👀 I’m interested in Computer Sciene and everything related to Cloud Computing<br>
-🌱 I’m currently learning the javascript library "REACT" <a href="https://github.com/ReinerBalschun/my-react-app"><img src="https://github.com/ReinerBalschun/ReinerBalschun/assets/152055446/544db450-433e-44c3-8e40-a8394bb1a07b" width="17" height="17"></a> <br>
-💞️ I’m looking to collaborate on Obsidian Notes to share my Notes with you
+
 
 ## 🌐 Social:
 <a href="https://linkedin.com/in/reiner-balschun-a123442b0"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="auto" height="auto"></a>
